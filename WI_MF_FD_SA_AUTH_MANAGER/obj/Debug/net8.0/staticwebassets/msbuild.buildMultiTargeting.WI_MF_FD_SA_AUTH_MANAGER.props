@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WI_MF_FD_SA_AUTH_MANAGER.props" />
+</Project>

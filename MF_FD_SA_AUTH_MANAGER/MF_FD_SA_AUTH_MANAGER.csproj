@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>6.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+   
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.0" />
+ 
+     </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DBHelper">
+      <HintPath>\\172.30.0.223\Central Document\@dlls\DBHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>\\172.30.0.223\Central Document\@dlls\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

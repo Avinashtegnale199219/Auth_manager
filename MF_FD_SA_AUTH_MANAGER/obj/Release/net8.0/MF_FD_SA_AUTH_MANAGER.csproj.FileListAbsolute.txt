@@ -1,0 +1,12 @@
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\bin\Release\net8.0\MF_FD_SA_AUTH_MANAGER.deps.json
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\bin\Release\net8.0\MF_FD_SA_AUTH_MANAGER.dll
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\bin\Release\net8.0\MF_FD_SA_AUTH_MANAGER.pdb
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.csproj.AssemblyReference.cache
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.AssemblyInfoInputs.cache
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.AssemblyInfo.cs
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.csproj.CoreCompileInputs.cache
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.dll
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\refint\MF_FD_SA_AUTH_MANAGER.dll
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\MF_FD_SA_AUTH_MANAGER.pdb
+D:\Working Drive\100004737 - Anjali Gupta\Dakshata\WI_MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER\obj\Release\net8.0\ref\MF_FD_SA_AUTH_MANAGER.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WI_MF_FD_SA_AUTH_MANAGER", "WI_MF_FD_SA_AUTH_MANAGER\WI_MF_FD_SA_AUTH_MANAGER.csproj", "{689E384A-763E-4929-BCC3-008E345DC31B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MF_FD_SA_AUTH_MANAGER", "MF_FD_SA_AUTH_MANAGER\MF_FD_SA_AUTH_MANAGER.csproj", "{E90BE930-2B69-4ADF-B81B-E838829CB824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689E384A-763E-4929-BCC3-008E345DC31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689E384A-763E-4929-BCC3-008E345DC31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689E384A-763E-4929-BCC3-008E345DC31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689E384A-763E-4929-BCC3-008E345DC31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E90BE930-2B69-4ADF-B81B-E838829CB824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90BE930-2B69-4ADF-B81B-E838829CB824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90BE930-2B69-4ADF-B81B-E838829CB824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90BE930-2B69-4ADF-B81B-E838829CB824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36E2177-4BF7-46AA-A247-CB25F3AC1DDA}
+	EndGlobalSection
+EndGlobal
